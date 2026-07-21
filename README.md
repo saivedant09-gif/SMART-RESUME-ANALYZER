@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 AI Resume Analyzer
+# 📄 Smart Resume Analyzer
 
 ### Analyze • Match • Improve Your Resume with AI
 
