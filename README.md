@@ -2,7 +2,7 @@
 
 # 📄 Smart Resume Analyzer
 
-### Analyze • Match • Improve Your Resume with AI
+### Analyze • Match • Improve Your Resume 
 
 An intelligent Resume Analyzer built using **Python**, **Streamlit**, and **NLP techniques** that evaluates resumes, calculates an ATS score, matches resumes with job roles, compares them against job descriptions, and generates a professional PDF report.
 
@@ -216,7 +216,7 @@ Download PDF Report
 
 # 👨‍💻 Author
 
-## Sai Vedant
+## R Sai Vedant
 
 Computer Science (Data Science) Student
 
