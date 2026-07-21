@@ -169,35 +169,6 @@ streamlit run app.py
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots here after deployment.
-
-### Dashboard
-
-```
-assets/dashboard.png
-```
-
-### Analysis
-
-```
-assets/analysis.png
-```
-
-### Charts
-
-```
-assets/charts.png
-```
-
-### PDF Report
-
-```
-assets/report.png
-```
-
----
 
 # 🧠 Workflow
 
