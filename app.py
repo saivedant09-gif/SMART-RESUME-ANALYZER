@@ -36,12 +36,16 @@ if uploaded_file is not None:
 
         with open(file_path, "wb") as file:
             file.write(uploaded_file.getbuffer())
-
-            if uploaded_file.name.endswith(".pdf"):
-                resume_text = extract_pdf_text(file_path)
-
-            else:
-                resume_text = extract_docx_text(file_path)
+        
+        # File is now closed
+        
+        if uploaded_file.name.lower().endswith(".pdf"):
+            resume_text = extract_pdf_text(file_path)
+        elif uploaded_file.name.lower().endswith(".docx"):
+            resume_text = extract_docx_text(file_path)
+        else:
+            st.error("Unsupported file type.")
+            st.stop()
         
         skills = extract_skills(resume_text)
         score, feedback = calculate_ats_score(
