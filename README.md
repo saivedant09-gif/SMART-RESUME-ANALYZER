@@ -4,6 +4,8 @@
 
 ### Analyze • Match • Improve Your Resume 
 
+Streamlit app link: https://smart-resume-analyzer-saivedant09.streamlit.app/
+
 An intelligent Resume Analyzer built using **Python**, **Streamlit**, and **NLP techniques** that evaluates resumes, calculates an ATS score, matches resumes with job roles, compares them against job descriptions, and generates a professional PDF report.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
