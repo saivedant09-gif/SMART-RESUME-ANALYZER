@@ -1,0 +1,61 @@
+{
+    "Data Scientist": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Machine Learning",
+        "Data Science",
+        "Git",
+        "GitHub",
+        "Statistics"
+    ],
+
+    "AI Engineer": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Linux",
+        "AWS"
+    ],
+
+    "Python Developer": [
+        "Python",
+        "Git",
+        "GitHub",
+        "SQL",
+        "Flask",
+        "Django",
+        "SQLite",
+        "Docker"
+    ],
+
+    "Full Stack Developer": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "SQL",
+        "Git",
+        "GitHub"
+    ],
+
+    "Data Analyst": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Power BI",
+        "Statistics"
+    ]
+}
